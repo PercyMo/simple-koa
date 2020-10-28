@@ -1,0 +1,17 @@
+{
+  "name": "simple-koa",
+  "version": "1.0.0",
+  "description": "实现一个简单的koa",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "debugger": "node --inspect server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "node"
+  ],
+  "author": "1418968663@qq.com",
+  "license": "ISC"
+}
